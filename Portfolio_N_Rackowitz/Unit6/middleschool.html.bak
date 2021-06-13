@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>middleschool</title>
+    <link type="text/css" rel="stylesheet" href="mystyles.css">
+  </head>
+  <body style="background-color: #d9b3b7;">
+    <table style="width: 1243px; height: 837px;" border="1">
+      <tbody>
+        <tr>
+          <td rowspan="1" colspan="2" class="title" style="background-color: #c2e5b9;">Middle
+            School<br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><a href="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/infant.html"><img
+                src="Images/Infanttitle.png" alt="Infant Button"></a><br>
+          </td>
+          <td rowspan="2" colspan="1" class="paragraph-font" style="background-color: #c2e5b9;">My
+            middle school lasted only two grades, sixth and seventh. I went to
+            Randolph Middle School, which was also about an hour drive. I left
+            after seventh grade. I skipped eighth when I transferred to my new
+            high school. <br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><a href="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/preschool.html"><img
+                src="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/Images/Preschool.png"
+                alt="Preschool Button"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9; height: 179.617px;"><a href="elementary.html"><img
+                src="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/Images/elementaryschooltitle.png"
+                alt="Elementary School Button"></a><br>
+          </td>
+          <td style="background-color: #c2e5b9;" rowspan="3" colspan="1">
+            <div style="text-align: center;"><img src="Images/Middle%20School.jpg"
+                alt="Me in a suit in middle school"><br>
+            </div>
+            <br>
+            <br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9; width: 340.4px; height: 179.4px;"><a
+              href="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/middleschool.html"><img
+                src="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/Images/middleschooltitle.png"
+                alt="Middle School Button"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><a href="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/current.html"><img
+                src="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/Images/currenttitle.png"
+                alt="Current Button"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><a href="index.html"><img src="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/Images/Hometitle.png"
+                alt="Home Button"></a><br>
+          </td>
+          <td class="photo-captions" style="background-color: #c2e5b9;">Me in a
+            suit on my way to vote with my parents. <br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><br>
+          </td>
+          <td class="citations" style="background-color: #c2e5b9;">Rackowitz,
+            Christie, (2016). Noah in a Suit to Vote. [JPG]. Retrieved from <a
+              href="https://www.facebook.com/photo.php?fbid=10210744181542207&amp;set=pb.1279711587.-2207520000..&amp;type=3">https://www.facebook.com/photo.php?fbid=10210744181542207&amp;set=pb.1279711587.-2207520000..&amp;type=3</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+  </body>
+</html>

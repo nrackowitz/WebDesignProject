@@ -1,0 +1,39 @@
+.title {
+  
+color: red;
+
+font-size: 42px;
+font-family: times new roman;
+
+font-weight: bold;
+  
+text-align: center;
+
+}
+.paragraph-font 
+{
+  color: green;
+  
+font-size:24;
+  
+font-family: arial;
+
+}
+.photo-captions 
+{
+  color: blue;
+  
+font-size: 18;
+  
+font-family: arial;
+
+}
+.citations {
+  
+color: blue;
+  
+font-size: 18;
+  
+font-family: arial;
+
+}

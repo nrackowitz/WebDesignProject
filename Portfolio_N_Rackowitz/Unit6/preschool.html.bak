@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>preschool</title>
+    <link type="text/css" rel="stylesheet" href="mystyles.css">
+  </head>
+  <body style="background-color: #d9b3b7;">
+    <table style="width: 1231px;" border="1">
+      <tbody>
+        <tr>
+          <td rowspan="1" colspan="2" class="title" style="background-color: #c2e5b9;">Preschool<br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><a href="index.html"><img src="Images/Hometitle.png"
+                alt="Home Button"></a><br>
+          </td>
+          <td rowspan="2" colspan="1" class="paragraph-font" style="background-color: #c2e5b9;">I
+            went to a preschool near my house, called First Kids. It was
+            attached to a church. I went there from age 2 to age 4. It allowed
+            me to get used to going to school regularly. <br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><a href="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/infant.html"><img
+                src="Images/Infanttitle.png" alt="Infant Button"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9; height: 176.167px;"><img src="Images/Preschool.png"
+              alt="Preschool Button"><br>
+          </td>
+          <td style="background-color: #c2e5b9; width: 1000.77px;" rowspan="3" colspan="1"><br>
+            <div style="text-align: center;"><img src="Images/Preschool.jpg" alt="Me in preschool about to go fishing"><br>
+            </div>
+            <br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9; height: 195.4px;"><img src="file:///C:/Users/racko/OneDrive/Desktop/Portfolio_N_Rackowitz/Unit6/Images/elementaryschooltitle.png"
+              alt="Elementary School Button"><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9; width: 341.433px;"><img src="Images/middleschooltitle.png"
+              alt="Middle School Button"><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><img src="Images/currenttitle.png"
+              alt="Current Button"><br>
+          </td>
+          <td class="photo-captions" style="background-color: #c2e5b9;">Me in
+            preschool, about to go fishing.<br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #c2e5b9;"><br>
+          </td>
+          <td class="citations" style="background-color: #c2e5b9;">Rackowitz,
+            Todd (2009). Noah Ready for Fishing. [JPG] Retrieved from <a href="https://www.facebook.com/photo?fbid=1050687000811&amp;set=a.1050650719904">https://www.facebook.com/photo?fbid=1050687000811&amp;set=a.1050650719904</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+  </body>
+</html>
